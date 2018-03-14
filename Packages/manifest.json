@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "com.unity.package-manager-ui": "1.8.2",
+    "com.unity.render-pipelines.lightweight": "1.1.1-preview",
+    "com.unity.shadergraph": "1.1.1-preview",
+    "com.unity.render-pipelines.core": "1.1.1-preview",
+    "com.unity.render-pipelines.high-definition": "1.1.1-preview",
+    "com.unity.cinemachine": "2.1.12"
+  }
+}
